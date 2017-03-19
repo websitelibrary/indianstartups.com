@@ -1,1 +1,1 @@
-alert('git hub developer alert');
+console.log('git hub developer alert');
